@@ -36,6 +36,7 @@ namespace KasperskyUITestingProject
         {
             var mainPage = new MainPage(webDriver);
             mainPage.GoToHomeSecurityPage();
+            Waiting.StupidWaiting();
             Assert.That(webDriver.Url, Is.EqualTo(Resources.homeSecurityUrl));
         }
 
