@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="allProductsBtn" xml:space="preserve">
+    <value>all_cs</value>
+    <comment>HomeSecurityPage</comment>
+  </data>
+  <data name="antivirusPageUrl" xml:space="preserve">
+    <value>https://www.kaspersky.ru/antivirus</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="changeLanguageBtnXpath" xml:space="preserve">
+    <value>//button[@class='AccesibilityButton_button__rj_ej PageHeader_globeWrapper__j_gu0']</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="changeToggleForBusinessBtnXPath" xml:space="preserve">
+    <value>//span[@class='Toggle_item__Qh2Jp Toggle_active__EbOLk MastheadHome_active__2j6Ca']</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="firstGuidePicTxt" xml:space="preserve">
+    <value>Откройте продукт «Лаборатории Касперского» одним из перечисленных способов.
+Нажмите значок в правом нижнем углу на панели задач или стрелку, чтобы показать скрытые значки.</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="fourthGuidPicTxt" xml:space="preserve">
+    <value>В разделе «Лицензирование»:
+Нажмите  в окне с информацией о лицензии, чтобы скопировать ключ лицензии.
+Введите ключ вашей лицензии в поле вверху этой страницы, чтобы активировать продление.</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="goToAntivirusPageBtnXPath" xml:space="preserve">
+    <value>//a[@href='/antivirus' and @data-at-selector='learn-more-button']/span/span</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="goToInternetSecurityPageBtnXPath" xml:space="preserve">
+    <value>//a[@href='/internet-security' and @data-at-selector='learn-more-button']</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="goToTotalSecurityPageBtnXPath" xml:space="preserve">
+    <value>//a[@href='/total-security' and @data-at-selector='learn-more-button']</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="guideTxtXPath" xml:space="preserve">
+    <value>//div[@data-index='0']</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="HomeSecurityGreenBtnXpath" xml:space="preserve">
+    <value>//span[@class='Common_inner__L6GF1 DarkGreenButton_inner__epUUq Common_expandedPadding__e9bdv']</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="homeSecurityUrl" xml:space="preserve">
+    <value>https://www.kaspersky.ru/home-security</value>
+    <comment>HomeSecurityPage</comment>
+  </data>
+  <data name="inputKeyXPath" xml:space="preserve">
+    <value>//input[@id='input-35']</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="internetSecurityPageUrl" xml:space="preserve">
+    <value>https://www.kaspersky.ru/internet-security</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="KasperskyURL" xml:space="preserve">
+    <value>https://www.kaspersky.ru/</value>
+  </data>
+  <data name="mainPageTitleXPath" xml:space="preserve">
+    <value>//h1</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="productsForAndroid" xml:space="preserve">
+    <value>android_cs</value>
+    <comment>HomeSecurityPage</comment>
+  </data>
+  <data name="productsForApple" xml:space="preserve">
+    <value>iphone_and_ipad_cs</value>
+    <comment>HomeSecurityPage</comment>
+  </data>
+  <data name="productsForMac" xml:space="preserve">
+    <value>macos_cs</value>
+    <comment>HomeSecurityPage</comment>
+  </data>
+  <data name="productsForWin" xml:space="preserve">
+    <value>windows_cs</value>
+    <comment>HomeSecurityPage</comment>
+  </data>
+  <data name="renewalUrl" xml:space="preserve">
+    <value>https://www.kaspersky.ru/renewal-center/home</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="RenewalWhiteBtnXPath" xml:space="preserve">
+    <value>//span[@class='Common_inner__L6GF1 BlackButtonSecondary_inner___YsFX Common_expandedPadding__e9bdv']</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="secondGuidPicTxt" xml:space="preserve">
+    <value>Перейдите в раздел «Лицензирование» вашего продукта
+Выберите пункт Лицензия: осталось X дн., если ваша лицензия еще действительна.
+Выберите пункт Лицензия: срок действия истек, если срок вашей лицензии истек.</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="submitKeyBtnCss" xml:space="preserve">
+    <value>#__next &gt; div &gt; div &gt; div &gt; main &gt; div:nth-child(4) &gt; div:nth-child(1) &gt; section &gt; div &gt; div &gt; div.MastheadLRC_lrcBlockWrapper__A_nZF &gt; div &gt; div.FormBlock_formWrapper__19PYY &gt; form &gt; button &gt; span &gt; span</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="thirdGuidPicTxt" xml:space="preserve">
+    <value>В разделе «Лицензирование»:
+Выберите Информация о лицензии или Подробнее
+(Название ссылки зависит от продукта).
+Появится окно с подробной информацией о лицензии.</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="titleEnglish" xml:space="preserve">
+    <value>Shop safely online – and save big!</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="titleMainPageBusiness" xml:space="preserve">
+    <value>Передовая кибербезопасность для любой компании</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="titleMainPageHomeSecurity" xml:space="preserve">
+    <value>Онлайн-защита, доступная всем</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="totalSecurityPageUrl" xml:space="preserve">
+    <value>https://www.kaspersky.ru/total-security</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="ToTheLeftBtnXPath" xml:space="preserve">
+    <value>//button[@class='SliderArrow_sliderArrow__nULnq LightSliderArrow_sliderArrow__JsS_Z LRCLicenseKeyFinder_arrow__hsLPf LRCLicenseKeyFinder_prev__LU1tY SliderArrow_isPrev__JUVXl']</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="ToTheRightBtnXPath" xml:space="preserve">
+    <value>//button[@class='SliderArrow_sliderArrow__nULnq LightSliderArrow_sliderArrow__JsS_Z LRCLicenseKeyFinder_arrow__hsLPf LRCLicenseKeyFinder_next__Hjo_b']</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="unitedStatesBtnXpath" xml:space="preserve">
+    <value>//a[@href='https://usa.kaspersky.com/?ignoreredirects=true' and text()='United States']</value>
+    <comment>MainPage</comment>
+  </data>
+  <data name="wrongKey" xml:space="preserve">
+    <value>key</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="wrongKeyErrorMessage" xml:space="preserve">
+    <value>Что-то пошло не так. Введите ключ лицензии, указанный в окне лицензирования вашего продукта.</value>
+    <comment>RenewalPage</comment>
+  </data>
+  <data name="wrongKeyErrorMessageXPath" xml:space="preserve">
+    <value>//label[@id='label-36']</value>
+    <comment>RenewalPage</comment>
+  </data>
+</root>
