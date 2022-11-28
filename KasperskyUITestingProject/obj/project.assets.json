@@ -1433,11 +1433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salosmarmeladom\\Documents\\GitHub\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
+      "projectUniqueName": "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
       "projectName": "KasperskyUITestingProject",
-      "projectPath": "C:\\Users\\salosmarmeladom\\Documents\\GitHub\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
+      "projectPath": "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
       "packagesPath": "C:\\Users\\salosmarmeladom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salosmarmeladom\\Documents\\GitHub\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\obj\\",
+      "outputPath": "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salosmarmeladom\\AppData\\Roaming\\NuGet\\NuGet.Config",
