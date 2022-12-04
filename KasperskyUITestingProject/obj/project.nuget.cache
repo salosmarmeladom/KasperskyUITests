@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xRmqpERBfWhhKnhN+zcrEWSK2dlIAA5tJbPVz1vLPnPEEM7Poup0cupPP1Ct57LUPEFlhS7U9mYXW/L4K87TCQ==",
+  "dgSpecHash": "+uK90Ooe74e5e+FGOe7Joae3invfC+YXwm4E2WjLYRo5cMQZks11m2PQ9DogJS0lK1njYaRoTKPygvf6xHsIyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
+  "projectFilePath": "C:\\Users\\salosmarmeladom\\source\\repos\\KasperskyUITests\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salosmarmeladom\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\salosmarmeladom\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

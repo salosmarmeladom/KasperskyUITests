@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj": {}
+    "C:\\Users\\salosmarmeladom\\source\\repos\\KasperskyUITests\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj": {
+    "C:\\Users\\salosmarmeladom\\source\\repos\\KasperskyUITests\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
+        "projectUniqueName": "C:\\Users\\salosmarmeladom\\source\\repos\\KasperskyUITests\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
         "projectName": "KasperskyUITestingProject",
-        "projectPath": "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
+        "projectPath": "C:\\Users\\salosmarmeladom\\source\\repos\\KasperskyUITests\\KasperskyUITestingProject\\KasperskyUITestingProject.csproj",
         "packagesPath": "C:\\Users\\salosmarmeladom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salosmarmeladom\\Source\\Repos\\salosmarmeladom\\KasperskyWebsiteUISeleniumTesting\\KasperskyUITestingProject\\obj\\",
+        "outputPath": "C:\\Users\\salosmarmeladom\\source\\repos\\KasperskyUITests\\KasperskyUITestingProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\salosmarmeladom\\AppData\\Roaming\\NuGet\\NuGet.Config",

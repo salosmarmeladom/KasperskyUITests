@@ -17,7 +17,7 @@ namespace KasperskyUITestingProject
 
         public static void StupidWaiting()
         {
-            Thread.Sleep(2000);
+            Thread.Sleep(3000);
         }
     }
 }
